@@ -4,7 +4,7 @@ QuickGPT is a full-stack AI-powered application that lets users chat with an int
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/quickgpt.git
+git clone https://github.com/GarvGupta-2005/QuickGPT.git
 cd quickgpt
 
 2️⃣ Backend Setup
